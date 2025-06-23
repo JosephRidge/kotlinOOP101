@@ -114,3 +114,29 @@ fun main(){
     println(parent2)
     println(parent)
 }
+
+
+
+
+
+
+
+
+// classes (abstract, enum, open, interfaces)
+// collections ( lists, sets, maps, collection "operations")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
